@@ -308,7 +308,7 @@ v5:Destroy();
 --         pcall(v422);
 --     end
 -- end);
-local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/VanThanhIOS/OniiChanVanThanhIOS/refs/heads/main/OniiChanVanThanhIOSVer2"))();
+local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/dawid-scripts/Fluent/master/Addons/InterfaceManager.lua"))();
 local v15 = v14:CreateWindow({
     Title = "Nhân Dz Hub",
     SubTitle = "Được tạo bởi nhân dz(Vietnamese)",
