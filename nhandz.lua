@@ -308,12 +308,12 @@ v5:Destroy();
 --         pcall(v422);
 --     end
 -- end);
-local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/obfalchx/testfluent/refs/heads/main/FluentTrau"))();
+local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/NhanDzVip/Nh-n-Dz/refs/heads/main/FluentTrau.txt"))();
 local v15 = v14:CreateWindow({
     Title = "Nhân Dz Hub",
     SubTitle = "True V1 bởi nhân dz https://discord.gg/HYqhQTTS ",
     TabWidth = 160,
-    Theme = "Dark",
+    Theme = "https://create.roblox.com/store/asset/115006004081592",
     Acrylic = false,
     Size = UDim2.fromOffset(500, 320),
     MinimizeKey = Enum.KeyCode.End
