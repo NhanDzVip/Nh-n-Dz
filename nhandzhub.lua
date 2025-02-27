@@ -311,7 +311,7 @@ v5:Destroy();
 local v14 = loadstring(game:HttpGet("https://raw.githubusercontent.com/obfalchx/testfluent/refs/heads/main/FluentTrau"))();
 local v15 = v14:CreateWindow({
     Title = "Nhân Dz Hub",
-    SubTitle = "Được tạo bởi nhân dz(Vietnamese)",
+    SubTitle = "by nhân dz(Vietnamese)",
     TabWidth = 160,
     Theme = "Darker",
     Acrylic = false,
@@ -2714,7 +2714,7 @@ spawn(function()
         if _G.FastAttackStrix_Mode then
             pcall(function()
                 if (_G.FastAttackStrix_Mode == "Super Fast Attack") then
-                    _G.Fast_Delay = 0.01;
+                    _G.Fast_Delay = 0.1;
                 end
             end);
         end
@@ -9073,7 +9073,7 @@ v165:OnChanged(function(v397)
     end
 end);
 local v166 = v16.Draco:AddParagraph({
-    Title = "Hoàn Thành Ải Draco V4 (Sớm Ra)",
+    Title = "Hoàn Thành Ải Draco V4 (Come out soon)",
     Content = ""
 });
 local v167 = v16.Draco:AddToggle("ToggleTrialTeleport", {
